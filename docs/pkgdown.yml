@@ -1,0 +1,6 @@
+pandoc: 3.6.3
+pkgdown: 2.2.0
+pkgdown_sha: ~
+articles:
+  Pitfalls_of_R2: Pitfalls_of_R2.html
+last_built: 2026-02-05T13:39Z
