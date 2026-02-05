@@ -6,14 +6,17 @@
 
 ## Citation
 
+Source:
+[`DESCRIPTION`](https://github.com/indenkun/kvr2/blob/main/DESCRIPTION)
+
 Kobayashi M (2026). *kvr2: Calculate and Compare Multiple Definitions of
 Coefficient of Determination*. R package version 0.0.0.9000,
-<https://indenkun.github.io/kvr2/>.
+<https://github.com/indenkun/kvr2>.
 
     @Manual{,
       title = {kvr2: Calculate and Compare Multiple Definitions of Coefficient of Determination},
       author = {Mao Kobayashi},
       year = {2026},
       note = {R package version 0.0.0.9000},
-      url = {https://indenkun.github.io/kvr2/},
+      url = {https://github.com/indenkun/kvr2},
     }
