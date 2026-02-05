@@ -37,7 +37,7 @@ to \\R^2_6\\ (the square of the correlation coefficient) or to \\R^2_7\\
 and \\R^2_8\\, which depend on specific model forms.
 
 For details on each coefficient of determination, refer to
-[r2](r2_kvr2.md).
+[r2](https://indenkun.github.io/kvr2/reference/r2_kvr2.md).
 
 ## References
 
@@ -47,4 +47,4 @@ Statistician, 39:4, 279-285,
 
 ## See also
 
-[r2](r2_kvr2.md)
+[r2](https://indenkun.github.io/kvr2/reference/r2_kvr2.md)

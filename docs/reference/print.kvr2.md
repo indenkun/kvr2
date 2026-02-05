@@ -36,4 +36,6 @@ summary, displaying each index or metric with its corresponding value.
 
 ## See also
 
-[r2](r2_kvr2.md) [comp_fit](comp_kvr2.md) [r2_adjusted](r2_adjusted.md)
+[r2](https://indenkun.github.io/kvr2/reference/r2_kvr2.md)
+[comp_fit](https://indenkun.github.io/kvr2/reference/comp_kvr2.md)
+[r2_adjusted](https://indenkun.github.io/kvr2/reference/r2_adjusted.md)

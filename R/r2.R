@@ -82,6 +82,7 @@
 #'
 #' @references
 #' Tarald O. Kvalseth (1985) Cautionary Note about R 2 , The American Statistician, 39:4, 279-285, \doi{10.1080/00031305.1985.10479448}
+#'
 #' Box, George E. P., Hunter, William G., Hunter, J. Stuart. (1978) Statistics for experimenters: an introduction to design, data analysis, and model building. New York, United States, J. Wiley, p. 462-473, ISBN:9780471093152.
 #' @rdname r2_kvr2
 #' @export
