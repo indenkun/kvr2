@@ -2,7 +2,7 @@
 title: "The Pitfalls of R-squared: Understanding Mathematical Sensitivity"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{he Pitfalls of R-square}
+  %\VignetteIndexEntry{The Pitfalls of R-squared: Understanding Mathematical Sensitivity}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
