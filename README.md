@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# Kvalseth.R2
+# kvr2
 
 <!-- badges: start -->
 
@@ -23,10 +23,10 @@ the specific definition formula used, as classified by Kvalseth (1985).
 
 ## Installation
 
-You can install the development version of Kvalseth.R2 like so:
+You can install the development version of kvr2 like so:
 
 ``` r
-remotes::install_github("indenkun/Kvalseth.R2")
+remotes::install_github("indenkun/kvr2")
 ```
 
 ## Example
@@ -35,7 +35,7 @@ The `R2()` function can calculate nine types of determination
 coefficients all at once.
 
 ``` r
-library(Kvalseth.R2)
+library(kvr2)
 # Example data set 1. Kvalseth (1985).
 df1 <- data.frame(x = c(1:6),
                   y = c(15,37,52,59,83,92))
@@ -70,7 +70,7 @@ r2(model_power1)
 #> R2_2 :  1.0984 
 #> R2_3 :  1.0983 
 #> R2_4 :  0.9778 
-#> R2_5 :  0.9811 
+#> R2_5 :  0.9816 
 #> R2_6 :  0.9811 
 #> R2_7 :  0.9961 
 #> R2_8 :  1.0232 

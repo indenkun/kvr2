@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# Kvalseth.R2
+# kvr2
 
 <!-- badges: start -->
 <!-- badges: end -->
@@ -27,10 +27,10 @@ It is an educational package designed to confirm that the coefficient of determi
 
 ## Installation
 
-You can install the development version of Kvalseth.R2 like so:
+You can install the development version of kvr2 like so:
 
 ``` r
-remotes::install_github("indenkun/Kvalseth.R2")
+remotes::install_github("indenkun/kvr2")
 ```
 
 ## Example
@@ -38,7 +38,7 @@ remotes::install_github("indenkun/Kvalseth.R2")
 The `R2()` function can calculate nine types of determination coefficients all at once.
 
 ```{r example}
-library(Kvalseth.R2)
+library(kvr2)
 # Example data set 1. Kvalseth (1985).
 df1 <- data.frame(x = c(1:6),
                   y = c(15,37,52,59,83,92))
