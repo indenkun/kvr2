@@ -1,0 +1,26 @@
+Package: Kvalseth.R2
+Type: Package
+Title: Coefficient of Determination According to Kvalseth's Classification
+Version: 0.0.0.9000
+Authors@R: c(
+    person(
+      "Mao", "Kobayashi",
+      email = "kobamao.jp@gmail.com",
+      role = c("aut", "cre")
+    )
+  )
+Description: The determination coefficient for linear or power regression models 
+   is based on the determination coefficients according to Kvalseth's nine 
+  classifications (eight classifications of existing methods and one proposed method).
+  Kvalseth's classification is based on Tarald O. Kvålseth (1985) Cautionary Note 
+  about R 2 , The American Statistician, 39:4, 279-285, DOI: 10.1080/00031305.1985.10479448.
+  This package is not intended for detailed verification of the coefficient of determination.
+  It is an educational package designed to confirm that the coefficient of determination 
+  may differ depending on the specific definition formula used, as classified by Kvalseth (1985).
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.3
+Roxygen: list(markdown = TRUE)
+Imports: 
+    stats
